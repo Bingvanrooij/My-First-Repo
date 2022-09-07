@@ -1,6 +1,6 @@
 # My-First-Repo
 
-[klik hier om naar zuyd tegaan](zuyd.nl)
+[klik hier om naar zuyd tegaan](https://zuyd.nl)
 
 
 
